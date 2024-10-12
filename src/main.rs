@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world! {}", tvix_eval::NixString::from("s"));
 }

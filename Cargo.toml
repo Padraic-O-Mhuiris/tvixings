@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+tvix_eval = { package = "tvix-eval", git = "https://github.com/tvlfyi/tvix", subdir = "eval", ref = "258a85a7e297e7e436ef02efb5046a2fbe907273" }
