@@ -4,3 +4,8 @@
 # nix
 result
 result-*
+
+
+# Added by cargo
+
+/target
